@@ -8,8 +8,8 @@ public class MR implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("spring 111");
-		System.out.println("karthik");
+	int a=10;
+		System.out.println("karthik"+a);
 
 	}
 
