@@ -9,6 +9,7 @@ public class MR implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("spring 111");
+		System.out.println("karthik");
 
 	}
 
